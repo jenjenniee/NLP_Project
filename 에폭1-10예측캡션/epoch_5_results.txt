@@ -1,0 +1,300 @@
+Image: ('traffic_accident00000070.jpg',)
+Generated Caption: a red car and a gray car are colliding on the road
+
+Image: ('caution00000003.jpg',)
+Generated Caption: a man in yellow is walking on the road with a man in black is holding a white bag and a man in yellow is walking on the
+
+Image: ('caution000094.jpg',)
+Generated Caption: a toddler in pink clothes is climbing out of her bed
+
+Image: ('caution00000320.jpg',)
+Generated Caption: a man in a white shirt is walking on the road with a black car in the background
+
+Image: ('caution000023.jpg',)
+Generated Caption: a woman wearing a green top is sitting on the balcony railing and looking at the green field
+
+Image: ('fight00000073.png',)
+Generated Caption: a woman wearing a white top is punching a woman in blue shirt in the room
+
+Image: ('traffic_accident00000169.jpg',)
+Generated Caption: a man wearing a pink shirt is falling from a car on the road
+
+Image: ('traffic_accident00000092.jpg',)
+Generated Caption: a white car is upside on the road and a white car is lying in front of it on the road
+
+Image: ('traffic_accident00000039.jpg',)
+Generated Caption: a white car is upside on the road and a black car is lying next to it on the road
+
+Image: ('caution000060.jpeg',)
+Generated Caption: a man wearing a black jacket is sitting on the railing of a bridge and holding his head with his hand
+
+Image: ('traffic_accident00000124.jpg',)
+Generated Caption: a white car is crashing on the road and a tree is in the background
+
+Image: ('fall00000602.jpg',)
+Generated Caption: a woman wearing a white shirt is lying on the floor in front of a chair
+
+Image: ('caution00000046.jpg',)
+Generated Caption: a woman wearing a white skirt is walking on the road with a white car in the background
+
+Image: ('fight00000128.jpg',)
+Generated Caption: a man wearing a mask is punching a woman in the hallway
+
+Image: ('fight00000347.png',)
+Generated Caption: a boy wearing a white shirt is kicking a boy in black clothes in the store
+
+Image: ('fall00000508.jpg',)
+Generated Caption: a man wearing a checked shirt is falling down the stairs
+
+Image: ('fire00000084.png',)
+Generated Caption: a fire is burning in the forest and a helicopter is flying low above it
+
+Image: ('traffic_accident00000040.jpg',)
+Generated Caption: a black motorcycle and a black car are colliding on the road
+
+Image: ('fall00000258.png',)
+Generated Caption: a woman wearing a green top fell down the stairs, holding a cane and a cane in her hand
+
+Image: ('fall00000018.png',)
+Generated Caption: a man wearing a blue top is falling on the lawn next to a red water bottle
+
+Image: ('fight00000362.png',)
+Generated Caption: a woman wearing white clothes is punching a man in white clothes in the room
+
+Image: ('caution00000011.jpg',)
+Generated Caption: two men are walking on the road with one man wearing jeans and one man wearing jeans is walking on the road
+
+Image: ('fire00000054.png',)
+Generated Caption: a fire is burning in the building and a fire is burning in the building
+
+Image: ('fight00000727.png',)
+Generated Caption: a man wearing blue shorts is punching a man in white shirt in the store
+
+Image: ('fight00000031.jpg',)
+Generated Caption: a man wearing black clothes is attacking a man in blue clothes on the street
+
+Image: ('fire00000033.png',)
+Generated Caption: a boat is on fire and is burning in the ocean
+
+Image: ('traffic_accident00000257.jpg',)
+Generated Caption: a black car is lying next to a child wearing a gray jacket on the road, and a blue bicycle is lying next to it
+
+Image: ('caution00000039.jpg',)
+Generated Caption: a boy in gray clothes is running on the road
+
+Image: ('traffic_accident00000142.jpg',)
+Generated Caption: a man in white shirt is attacking a woman in blue car on the road
+
+Image: ('traffic_accident00000064.jpg',)
+Generated Caption: a man wearing a blue shirt is lying next to a black bicycle on the road
+
+Image: ('caution000019.jpg',)
+Generated Caption: two women are sitting on the roof and are facing each other woman
+
+Image: ('traffic_accident00000071.jpg',)
+Generated Caption: a gray car is upside on the road and a green car is lying in front of it on the road
+
+Image: ('fire00000171.png',)
+Generated Caption: a fire is burning in front of a house on the street
+
+Image: ('fall00000615.jpg',)
+Generated Caption: an old woman wearing a white top fell on the bed, and she is wearing a gray top
+
+Image: ('fire00000024.png',)
+Generated Caption: a white car is parked in front of a fire burning through the trees
+
+Image: ('caution000215.jpeg',)
+Generated Caption: a man wearing a black jacket is sitting on the railing of a high building and is looking at the camera
+
+Image: ('fall00000074.png',)
+Generated Caption: a man wearing a black top is lying on the floor in the kitchen
+
+Image: ('fall00000616.jpg',)
+Generated Caption: an old man wearing a gray t - shirt fell down the stairs in the house
+
+Image: ('caution00000190.jpg',)
+Generated Caption: a man wearing a backpack is riding a skateboard on the road
+
+Image: ('caution00000033.jpg',)
+Generated Caption: a man in a gray hood is walking on the road
+
+Image: ('traffic_accident00000171.jpg',)
+Generated Caption: a man wearing a white top is falling on the road next to a gray car on the road
+
+Image: ('fire00000004.png',)
+Generated Caption: a fire is burning in front of a house and a tree is in front of it
+
+Image: ('fight00000205.png',)
+Generated Caption: a man wearing white clothes is attacking a man in the room
+
+Image: ('fall00000518.jpg',)
+Generated Caption: a man wearing a blue top is lying in the office chair next to the chair
+
+Image: ('fire00000027.png',)
+Generated Caption: a fire is burning in the forest and a man is standing next to it
+
+Image: ('fall00000609.jpg',)
+Generated Caption: a man wearing a purple top is lying on the floor in front of the window
+
+Image: ('fire00000007.png',)
+Generated Caption: a fire is burning in the field and a white car is parked in front of it
+
+Image: ('caution000008.jpeg',)
+Generated Caption: a baby wearing dia
+
+Image: ('caution00000093.jpg',)
+Generated Caption: a man wearing a yellow vest is walking on the construction site with a pile of pipes behind him
+
+Image: ('fire00000070.png',)
+Generated Caption: a bus is on fire on the road
+
+Image: ('traffic_accident00000204.jpg',)
+Generated Caption: a blue car and a red car are colliding on the road
+
+Image: ('fight00000402.png',)
+Generated Caption: a man wearing black clothes is attacking a woman in white clothes in the store
+
+Image: ('fight00000051.jpg',)
+Generated Caption: a man wearing a black top is kicking a man wearing a gray top on the bridge railing
+
+Image: ('fall00000370.png',)
+Generated Caption: a man wearing a red top is lying on the floor in the room
+
+Image: ('traffic_accident00000084.jpg',)
+Generated Caption: a man wearing jeans is lying next to a bicycle on the road
+
+Image: ('fall00000240.png',)
+Generated Caption: a man wearing a black top is lying on the crosswalk
+
+Image: ('fight00000622.png',)
+Generated Caption: a man wearing a mask is punching a man wearing a mask on the subway station
+
+Image: ('fight00000432.png',)
+Generated Caption: a man wearing a mask is attacking a woman in the room
+
+Image: ('caution00000061.jpg',)
+Generated Caption: two construction men are standing on the construction site
+
+Image: ('caution00000009.jpg',)
+Generated Caption: a boy in green is walking on the road with cars behind him
+
+Image: ('caution00000005.jpg',)
+Generated Caption: a girl in red is running on the road
+
+Image: ('fall00000058.png',)
+Generated Caption: a woman wearing a red top fell on the lawn next to a white car and a child is lying on the lawn
+
+Image: ('fall00000068.png',)
+Generated Caption: a man wearing a gray top is lying next to a flower bed on the sidewalk
+
+Image: ('traffic_accident00000131.jpg',)
+Generated Caption: a man wearing a helmet is lying on the road next to a gray car on the road
+
+Image: ('fall00000227.png',)
+Generated Caption: a woman wearing a black top fell on the street and fell down on the sidewalk
+
+Image: ('fire00000010.png',)
+Generated Caption: a fire is burning in front of a house and a house is burning in front of it
+
+Image: ('fire00000063.png',)
+Generated Caption: a fire is burning in front of a house and a man is standing in front of it
+
+Image: ('traffic_accident00000274.jpg',)
+Generated Caption: a woman wearing a pink top is lying next to a bicycle on the road
+
+Image: ('fall00000474.jpg',)
+Generated Caption: a boy wearing a striped red top is lying on the floor with his hands in his pockets
+
+Image: ('fall00000141.png',)
+Generated Caption: a man wearing a white shirt is lying on the grass next to a bicycle and a bicycle is lying next to it on the grass
+
+Image: ('fire00000097.png',)
+Generated Caption: a fire is burning in front of a building and a fire is burning in front of a building and a car is parked in front of it
+
+Image: ('fight00000699.jpg',)
+Generated Caption: two boys are fighting on the lawn in the garden
+
+Image: ('fall00000594.jpg',)
+Generated Caption: a woman wearing a striped top fell down in the room next to the computer chair
+
+Image: ('fight00000093.jpg',)
+Generated Caption: a man in gray clothes is attacking a man in red clothes on the road
+
+Image: ('fight00000034.jpg',)
+Generated Caption: a bald man in black clothes is kicking a bald man in black clothes on the street
+
+Image: ('fire00000096.png',)
+Generated Caption: a man wearing a mask is punching a man in front of a fire burning through the building
+
+Image: ('fire00000098.png',)
+Generated Caption: a boat is on fire and smoke is rising from the boat ' s deck
+
+Image: ('fight00000012.jpg',)
+Generated Caption: a man wearing a blue shirt is punching a man in black clothes in the hallway
+
+Image: ('fight00000610.png',)
+Generated Caption: a man wearing white clothes is lying on the sidewalk next to a man wearing black clothes and a man wearing white clothes is lying on the sidewalk
+
+Image: ('traffic_accident00000032.jpg',)
+Generated Caption: a black car is smashed on the road, and a man is standing next to it on the road
+
+Image: ('fire00000015.png',)
+Generated Caption: a black car is on fire in front of a building and a fire is burning in the street
+
+Image: ('traffic_accident00000178.jpg',)
+Generated Caption: a black car is on fire on the road, and a fire is burning in the middle of the road
+
+Image: ('fight00000772.png',)
+Generated Caption: a man wearing blue clothes is attacking a man on the road
+
+Image: ('fight00000496.png',)
+Generated Caption: a man wearing white clothes is kicking a woman in white clothes in the store
+
+Image: ('traffic_accident00000063.jpg',)
+Generated Caption: a black car and a white car are colliding on the road
+
+Image: ('traffic_accident00000045.jpg',)
+Generated Caption: a black car is on fire on the road, and a white car is on fire on the road
+
+Image: ('fight00000182.jpg',)
+Generated Caption: a man wearing a blue shirt is attacking a man wearing a red shirt on the stairs of the house
+
+Image: ('caution000003.jpg',)
+Generated Caption: a man wearing a blue shirt is climbing on the roof of a house with a ladder nearby
+
+Image: ('fall00000009.png',)
+Generated Caption: a man wearing blue pants fell on the sidewalk next to the tree
+
+Image: ('fire00000038.png',)
+Generated Caption: two firemen are fighting on the road next to the car on the road
+
+Image: ('fire00000153.png',)
+Generated Caption: a fire is burning next to a white van on the road
+
+Image: ('fall00000290.jpeg',)
+Generated Caption: a man wearing a blue shirt is lying on the stairs
+
+Image: ('caution00000014.jpg',)
+Generated Caption: two construction workers are fighting in the construction site
+
+Image: ('fire00000022.png',)
+Generated Caption: a fire is burning on the road and a fire truck is on the road
+
+Image: ('fight00000252.png',)
+Generated Caption: a man wearing white clothes is attacking a man in front of a white car on the road
+
+Image: ('caution00000001.jpg',)
+Generated Caption: a man in black is walking on the road with a bag in his hand
+
+Image: ('fall00000546.jpg',)
+Generated Caption: a man wearing a white shirt is lying on the floor with his arms outstretched
+
+Image: ('traffic_accident00000046.jpg',)
+Generated Caption: a green car is smashed on the road and a blue car is lying in front of it
+
+Image: ('fire00000016.png',)
+Generated Caption: a fire is burning behind a truck on the road
+
+Image: ('fire00000025.png',)
+Generated Caption: a fire is burning in front of a crowd of people on the street
+

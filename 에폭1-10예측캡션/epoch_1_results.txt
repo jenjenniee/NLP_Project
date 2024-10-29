@@ -1,0 +1,300 @@
+Image: ('traffic_accident00000070.jpg',)
+Generated Caption: a car is in the air
+
+Image: ('caution00000003.jpg',)
+Generated Caption: a man in a yellow shirt is walking across the street
+
+Image: ('caution000094.jpg',)
+Generated Caption: a baby in a pink striped pajamas is reaching into a white cribt
+
+Image: ('caution00000320.jpg',)
+Generated Caption: a man in a white shirt is walking across the street
+
+Image: ('caution000023.jpg',)
+Generated Caption: a woman sitting on a balcony looking out at the view
+
+Image: ('fight00000073.png',)
+Generated Caption: a woman is punching a man in the room
+
+Image: ('traffic_accident00000169.jpg',)
+Generated Caption: a man in a pink suit is doing a trick on a car
+
+Image: ('traffic_accident00000092.jpg',)
+Generated Caption: a car is flipped on the road
+
+Image: ('traffic_accident00000039.jpg',)
+Generated Caption: a white car is on the road
+
+Image: ('caution000060.jpeg',)
+Generated Caption: a man is sitting on a railing on a bridge
+
+Image: ('traffic_accident00000124.jpg',)
+Generated Caption: a white car is on the road
+
+Image: ('fall00000602.jpg',)
+Generated Caption: a woman is lying on the floor in front of a computer
+
+Image: ('caution00000046.jpg',)
+Generated Caption: a woman in a white dress is walking down the street
+
+Image: ('fight00000128.jpg',)
+Generated Caption: a man is punching another man in a room
+
+Image: ('fight00000347.png',)
+Generated Caption: a man is in a store with a bunch of stuff
+
+Image: ('fall00000508.jpg',)
+Generated Caption: a man wearing a hat is sitting on the stairs
+
+Image: ('fire00000084.png',)
+Generated Caption: a helicopter is flying over a fire in the forest
+
+Image: ('traffic_accident00000040.jpg',)
+Generated Caption: a car is on the road next to a motorcycle
+
+Image: ('fall00000258.png',)
+Generated Caption: a woman wearing a blue shirt is lying on the floor
+
+Image: ('fall00000018.png',)
+Generated Caption: a man is falling off a table in the woods
+
+Image: ('fight00000362.png',)
+Generated Caption: a man and a woman are dancing in a room
+
+Image: ('caution00000011.jpg',)
+Generated Caption: a man is walking with a man in a red shirt
+
+Image: ('fire00000054.png',)
+Generated Caption: a fire is burning in the middle of a building
+
+Image: ('fight00000727.png',)
+Generated Caption: a man wearing blue shorts is punching a man in a white shirt
+
+Image: ('fight00000031.jpg',)
+Generated Caption: a man wearing a black jacket is punching another man in the street
+
+Image: ('fire00000033.png',)
+Generated Caption: a boat with a fire on the front of it
+
+Image: ('traffic_accident00000257.jpg',)
+Generated Caption: a child is lying on the road next to a car
+
+Image: ('caution00000039.jpg',)
+Generated Caption: a boy is running on the road in the middle of the road
+
+Image: ('traffic_accident00000142.jpg',)
+Generated Caption: a man in a white shirt is standing next to a blue car
+
+Image: ('traffic_accident00000064.jpg',)
+Generated Caption: a man is lying on the road next to a car
+
+Image: ('caution000019.jpg',)
+Generated Caption: two women sitting on a ledge looking at the sky
+
+Image: ('traffic_accident00000071.jpg',)
+Generated Caption: a car is upside on the road
+
+Image: ('fire00000171.png',)
+Generated Caption: a fire is burning in the middle of a house
+
+Image: ('fall00000615.jpg',)
+Generated Caption: a man wearing a white shirt is lying on the bed
+
+Image: ('fire00000024.png',)
+Generated Caption: a car is parked in front of a fire
+
+Image: ('caution000215.jpeg',)
+Generated Caption: a man wearing a black jacket is sitting on a ledge
+
+Image: ('fall00000074.png',)
+Generated Caption: a man is falling in the kitchen
+
+Image: ('fall00000616.jpg',)
+Generated Caption: a man is falling on the floor in a room
+
+Image: ('caution00000190.jpg',)
+Generated Caption: a man wearing a hat is skateboarding on a road
+
+Image: ('caution00000033.jpg',)
+Generated Caption: a man in a gray hoodie is running across the street
+
+Image: ('traffic_accident00000171.jpg',)
+Generated Caption: a man is falling off of a car
+
+Image: ('fire00000004.png',)
+Generated Caption: a fire is burning in a house
+
+Image: ('fight00000205.png',)
+Generated Caption: a man is standing in a room with a man on the floor
+
+Image: ('fall00000518.jpg',)
+Generated Caption: a man is lying on the floor in an office
+
+Image: ('fire00000027.png',)
+Generated Caption: a fire is burning in the woods and people are standing around
+
+Image: ('fall00000609.jpg',)
+Generated Caption: a man in a purple shirt is lying on the floor
+
+Image: ('fire00000007.png',)
+Generated Caption: a fire is burning in the middle of a field
+
+Image: ('caution000008.jpeg',)
+Generated Caption: a baby is standing on a cribt
+
+Image: ('caution00000093.jpg',)
+Generated Caption: a man wearing a safety vest is walking on a construction site
+
+Image: ('fire00000070.png',)
+Generated Caption: a bus is on fire on the road
+
+Image: ('traffic_accident00000204.jpg',)
+Generated Caption: a car is on the road
+
+Image: ('fight00000402.png',)
+Generated Caption: a man and woman are fighting in a store
+
+Image: ('fight00000051.jpg',)
+Generated Caption: a man wearing a black hoodie is kicking a man in black pants
+
+Image: ('fall00000370.png',)
+Generated Caption: a man in a red shirt is lying on the floor
+
+Image: ('traffic_accident00000084.jpg',)
+Generated Caption: a man is lying on the ground next to a bicycle
+
+Image: ('fall00000240.png',)
+Generated Caption: a man is lying on the ground in the middle of the road
+
+Image: ('fight00000622.png',)
+Generated Caption: a man wearing a white jacket
+
+Image: ('fight00000432.png',)
+Generated Caption: a man and woman are fighting in a room
+
+Image: ('caution00000061.jpg',)
+Generated Caption: two men in safety vests are walking on a bridge
+
+Image: ('caution00000009.jpg',)
+Generated Caption: a man in a green shirt is walking on the road
+
+Image: ('caution00000005.jpg',)
+Generated Caption: a little girl is running in the street
+
+Image: ('fall00000058.png',)
+Generated Caption: a woman is lying on the grass next to a car
+
+Image: ('fall00000068.png',)
+Generated Caption: a man is lying on the ground next to a plant
+
+Image: ('traffic_accident00000131.jpg',)
+Generated Caption: a man wearing a helmet is lying on the ground
+
+Image: ('fall00000227.png',)
+Generated Caption: a woman is lying on the ground next to a man
+
+Image: ('fire00000010.png',)
+Generated Caption: a fire is burning in the middle of a house
+
+Image: ('fire00000063.png',)
+Generated Caption: a fire is burning in the dark area of a house
+
+Image: ('traffic_accident00000274.jpg',)
+Generated Caption: a woman is lying on the ground next to a car
+
+Image: ('fall00000474.jpg',)
+Generated Caption: a boy wearing a red and white striped shirt
+
+Image: ('fall00000141.png',)
+Generated Caption: a man is lying on the ground with a bicycle
+
+Image: ('fire00000097.png',)
+Generated Caption: a fire is burning in the middle of a city
+
+Image: ('fight00000699.jpg',)
+Generated Caption: two boys are fighting in the grass
+
+Image: ('fall00000594.jpg',)
+Generated Caption: a woman is lying on the floor in a room
+
+Image: ('fight00000093.jpg',)
+Generated Caption: a man in a red shirt is falling off a man in a black suit
+
+Image: ('fight00000034.jpg',)
+Generated Caption: a man wearing a black jacket is kicking another man in a black suit
+
+Image: ('fire00000096.png',)
+Generated Caption: a man in a black suit is punching a man in a red jacket
+
+Image: ('fire00000098.png',)
+Generated Caption: a boat is burning in the water
+
+Image: ('fight00000012.jpg',)
+Generated Caption: a man wearing a blue shirt is holding a black bag
+
+Image: ('fight00000610.png',)
+Generated Caption: a man is lying on the ground next to a man who is lying on the ground
+
+Image: ('traffic_accident00000032.jpg',)
+Generated Caption: a car is on the side of the road after it crashed
+
+Image: ('fire00000015.png',)
+Generated Caption: a car is on fire in a parking
+
+Image: ('traffic_accident00000178.jpg',)
+Generated Caption: a car is on fire on the street
+
+Image: ('fight00000772.png',)
+Generated Caption: a man is falling off a motorcycle on the road
+
+Image: ('fight00000496.png',)
+Generated Caption: a man in a white shirt is kicking a woman in a white dress
+
+Image: ('traffic_accident00000063.jpg',)
+Generated Caption: a car is on the road after it crashed
+
+Image: ('traffic_accident00000045.jpg',)
+Generated Caption: a car is on fire on the road
+
+Image: ('fight00000182.jpg',)
+Generated Caption: a man wearing a blue shirt
+
+Image: ('caution000003.jpg',)
+Generated Caption: a man is on the roof of a house
+
+Image: ('fall00000009.png',)
+Generated Caption: a man in blue pants is lying on the sidewalk
+
+Image: ('fire00000038.png',)
+Generated Caption: two firemen are fighting in the street
+
+Image: ('fire00000153.png',)
+Generated Caption: a fire is burning in the middle of a road
+
+Image: ('fall00000290.jpeg',)
+Generated Caption: a man wearing a blue shirt is lying on the stairs
+
+Image: ('caution00000014.jpg',)
+Generated Caption: a man wearing a safety vest
+
+Image: ('fire00000022.png',)
+Generated Caption: a fire is burning on the side of the road
+
+Image: ('fight00000252.png',)
+Generated Caption: a man is pushing a car in a parking lot
+
+Image: ('caution00000001.jpg',)
+Generated Caption: a woman is walking across the street in the rain
+
+Image: ('fall00000546.jpg',)
+Generated Caption: a man in a white shirt is lying on the floor
+
+Image: ('traffic_accident00000046.jpg',)
+Generated Caption: a car that is sitting on the side of the road
+
+Image: ('fire00000016.png',)
+Generated Caption: a fire is burning behind a truck
+
+Image: ('fire00000025.png',)
+Generated Caption: a fire is burning in the middle of a crowd
+
